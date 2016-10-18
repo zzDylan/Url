@@ -15,7 +15,7 @@
 	},
 	"autoload": {
         "psr-4": {
-            "Zzdylan\\easyurl\\": "src/"
+            "Zzdylan\\Easyurl\\": "src/"
         }
     }
 }
