@@ -1,6 +1,6 @@
 <?php
 
-namespace Zzdylan\easyurl;
+namespace Zzdylan\Easyurl;
 
 class Url{
 		public function get($url){
