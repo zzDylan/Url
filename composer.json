@@ -1,0 +1,21 @@
+{
+    "name": "zzdylan/easyurl",
+    "description": "easy url",
+	"keywords": ["url"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zz",
+            "email": "527844046@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+        "psr-4": {
+            "Zzdylan\\easyurl\\": "src/"
+        }
+    }
+}
